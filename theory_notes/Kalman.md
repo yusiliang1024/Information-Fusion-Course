@@ -3,4 +3,4 @@
    线性系统状态方程，通过输入输出（预测数据）观测数据对系统状态进行最优估计的算法。由于观测数据收到系统、环境的 **噪声和干扰** 影响，所以最优估计也可以看作滤波过程。（将不太准确的（预测、量测）融合为较为准确的估计的过程）
 2. preliminary：
    1. 高斯（正太）分布
-      <img width="725" height="189" alt="0af713d6af784fb0b916959f77b9fa5f" src="https://github.com/user-attachments/assets/88cd5f83-f26c-4228-bacd-34faf1e1b37d" />
+      - <img width="725" height="189" alt="0af713d6af784fb0b916959f77b9fa5f" src="https://github.com/user-attachments/assets/88cd5f83-f26c-4228-bacd-34faf1e1b37d" />
