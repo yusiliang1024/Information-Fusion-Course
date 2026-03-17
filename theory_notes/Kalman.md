@@ -5,3 +5,5 @@
    1. **高斯（正太）分布**
       - <img width="725" height="189" alt="0af713d6af784fb0b916959f77b9fa5f" src="https://github.com/user-attachments/assets/88cd5f83-f26c-4228-bacd-34faf1e1b37d" />
    2. **协方差矩阵**： 方差、协方差在一个矩阵中表示出来
+      - <img width="207" height="108" alt="image" src="https://github.com/user-attachments/assets/23d17832-5bd3-4b3a-8d40-5e2353ae932c" />
+
