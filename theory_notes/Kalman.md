@@ -5,5 +5,4 @@
    1. **高斯（正太）分布**
       - <img width="725" height="189" alt="0af713d6af784fb0b916959f77b9fa5f" src="https://github.com/user-attachments/assets/88cd5f83-f26c-4228-bacd-34faf1e1b37d" />
    2. **协方差矩阵**： 方差、协方差在一个矩阵中表示出来
-> 符号说明：
-$\hat{x}_k\,\text{最优估计值}\left( k\text{时刻} \right) \text{，}{\hat{x}_k}^-\,\text{状态预测值，}z_k\,\text{观测状态值}$  , $P_k\,\text{状态协方差}, {P_k}^-\,\text{预测协方差矩阵，} R_k\,\text{观测方差，} Q_k\,\text{过程误差}\\$  , $H\,\text{映射矩阵} \text{观测矩阵} K\text{卡尔曼增益} F\left( \varPhi \right) \,\text{状态转移矩阵}$
+> 符号说明： $\hat{x}_k$ :最优估计值， $\hat{x}_k}^-$ :状态预测值， $z_k$ :状态观测值， $P_k$ :状态协方差矩阵， $P_k^-$ :预测协方差矩阵 $R_k$ :观测方差， $Q_k$ :过程误差， $H$ :映射矩阵， $K$ 卡尔曼增益， $F(\varPhi)$ :状态转移矩阵。
